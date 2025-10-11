@@ -18,7 +18,6 @@ It provides **role-based access** for HRs, managers, and developers to efficient
 ✅ Project and task management  
 ✅ Leave and payroll management  
 ✅ Secure authentication system (JWT)  
-✅ Password recovery via email  
 ✅ Responsive, user-friendly design  
 
 ---
