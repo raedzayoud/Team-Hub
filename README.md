@@ -36,6 +36,3 @@ It provides **role-based access** for HRs, managers, and developers to efficient
 A few days ago, I started developing the **backend**, and I have already **completed the entire design phase** of the application.
 
 ---
-
-# Backend
-git clone https://github.com/raedzayoud/backend-Team-Hub.git
