@@ -25,8 +25,8 @@ It provides **role-based access** for HRs, managers, and developers to efficient
 
 ## 🛠 Tech Stack
 
-**Frontend:** Angular, TypeScript, HTML, CSS, Bootstrap  
-**Backend:** Laravel (PHP), MySQL  
+**Frontend:** Angular, TypeScript, HTML, CSS
+**Backend:** Spring Boot, MySQL  
 **Other Tools:** RESTful APIs, Git, Postman  
 
 ---
