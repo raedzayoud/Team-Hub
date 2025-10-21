@@ -40,6 +40,8 @@ A few days ago, I started developing the **backend**, and I have already **compl
 
 ## Some ScreenShot
 
+<img width="1313" height="620" alt="image" src="https://github.com/user-attachments/assets/d10cffa1-34a0-4c3d-90ea-4318f02d6a0c" />
+
 <img width="1313" height="607" alt="image" src="https://github.com/user-attachments/assets/58818195-b596-4e76-b36b-f65ec9ae4b85" />
 
 <img width="1343" height="631" alt="image" src="https://github.com/user-attachments/assets/cb41b7b2-95b3-4f76-a869-eec40be2f9f3" />
