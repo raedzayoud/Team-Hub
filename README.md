@@ -30,14 +30,6 @@ It provides **role-based access** for HRs, managers, and developers to efficient
 
 ---
 
-## 📅 Progress
-
-A few days ago, I started developing the **backend**, and I have already **completed the entire design phase** of the application.
-
----
-
-
-
 ## Some ScreenShot
 
 <img width="1313" height="620" alt="image" src="https://github.com/user-attachments/assets/d10cffa1-34a0-4c3d-90ea-4318f02d6a0c" />
